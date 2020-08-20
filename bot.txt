@@ -43,3 +43,4 @@
 3 Success builds character. Failure reveals it. -Dave Checketts
 0 Success builds character. Failure reveals it. -Dave Checketts
 1 Just as much as we see in others we have in ourselves. -William Hazlitt
+2 Just as much as we see in others we have in ourselves. -William Hazlitt
